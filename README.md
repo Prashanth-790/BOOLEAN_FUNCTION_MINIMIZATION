@@ -18,7 +18,15 @@ Software – Quartus prime:
 
 ### THEORY:
 
+Boolean function minimization is a process to simplify a Boolean expression without altering its functionality. The goal is to reduce the number of literals, terms, and gates in a logic circuit, leading to cost-effective, efficient, and easier-to-implement designs.
+
+
 ### LOGIC DIAGRAM:
+
+![Screenshot 2024-12-12 061556](https://github.com/user-attachments/assets/7cacd15d-436b-4332-b615-ba52d16fbe7e)
+
+
+
 
 ### PROCEDURE:
 
