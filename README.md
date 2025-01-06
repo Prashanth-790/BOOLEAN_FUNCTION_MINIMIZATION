@@ -60,8 +60,9 @@ Boolean function minimization is a process to simplify a Boolean expression with
 
 
 ### RTL:
+TIMING DIAGRAM:
+![Screenshot 2025-01-06 131221](https://github.com/user-attachments/assets/12375705-5880-469d-98d4-083600f9bc3b)
 
-![Screenshot 2024-11-21 104135](https://github.com/user-attachments/assets/2c53b4fd-6fc9-45ac-9e0d-fc93c9d60248)
 
 ### RESULT:
 
